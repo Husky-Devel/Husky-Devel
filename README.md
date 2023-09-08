@@ -1,5 +1,5 @@
 # Hi,welcome nothing fancey here
 
-[Check out my personal site](https://hnz.li/415)
+[Check out my personal site](https://peter.husky.nz)
 
-[HuskyNZ's links](https://hnz.li/ymh)
+[HuskyNZ's links](https://landing.husky.nz)
