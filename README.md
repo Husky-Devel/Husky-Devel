@@ -3,11 +3,11 @@
 
 <p align="left"> 
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=husky-devel&theme=onedark" alt="husky-devel" />
+    <img src="https://github-profile-trophy.vercel.app/?username=husky-devel&theme=matrix" alt="husky-devel" />
   </a> 
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=husky-devel&show_icons=true&locale=en&theme=onedark" alt="husky-devel" style="display: inline-block;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=husky-devel&theme=onedark" alt="husky-devel" style="display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=husky-devel&show_icons=true&locale=en&theme=ambient_gradient" alt="husky-devel" style="display: inline-block;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=husky-devel&theme=ambient_gradient" alt="husky-devel" style="display: inline-block;" />
 </div>
