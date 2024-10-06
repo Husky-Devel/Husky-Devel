@@ -8,6 +8,6 @@
 </p>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=husky-devel&show_icons=true&locale=en&theme=dark" alt="husky-devel" style="display: inline-block;" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=husky-devel&theme=dark" alt="husky-devel" style="display: inline-block;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=husky-devel&show_icons=true&locale=en&theme=onedark" alt="husky-devel" style="display: inline-block;" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=husky-devel&theme=onedark" alt="husky-devel" style="display: inline-block;" />
 </div>
